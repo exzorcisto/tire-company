@@ -118,7 +118,7 @@ body {
 /* Карточки */
 .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 350px));
+    grid-template-columns: repeat(auto-fit, minmax(600px, 350px));
     /* Фиксированная ширина для симметрии */
     gap: 30px;
     padding: 40px 0;
